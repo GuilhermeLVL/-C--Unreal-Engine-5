@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\l-0-l\\documents\\github\\-c--unreal-engine-5\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\uht\\cplusplus.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\l-0-l\\documents\\github\\-c--unreal-engine-5\\cplusplus\\intermediate\\build\\win64\\x64\\cpluspluseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\l-0-l\\documents\\github\\-c--unreal-engine-5\\cplusplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
