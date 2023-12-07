@@ -11,6 +11,8 @@
     <None Include="..\..\Source\CPlusPlusEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -51,6 +53,12 @@
       <Filter>Source\CPlusPlus</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CPlusPlus\CPlusPlusGameMode.h">
+      <Filter>Source\CPlusPlus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlus\TutorialMyCharacter.cpp">
+      <Filter>Source\CPlusPlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlus\TutorialMyCharacter.h">
       <Filter>Source\CPlusPlus</Filter>
     </ClInclude>
   </ItemGroup>
